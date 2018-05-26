@@ -1,0 +1,8 @@
+{
+  "name": "waifu17-bot",
+  "version": "1.0.0",
+  "description": "My own Discord waifubot",
+  "main": "bot.js",
+  "author": "17edwins17",
+  "dependencies": {}
+}
